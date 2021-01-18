@@ -2,8 +2,7 @@
 
 4. vercel -v
 
-5.
-npm i -g @angular/cli
+5. npm i -g @angular/cli
 ng new projetVersel
 
 6. vercel deploy
@@ -28,3 +27,14 @@ Preview, Devloppement).
     vercel env add secret SECRET_NAME production
 
 16. Production, Preview, Devloppement -> permet de developper en testant les fonctionnalité puis de déployer une fois le résultat satisfaisant
+
+18. https://projet-versel.vercel.app/
+
+19. La pull request permet d'effectuer une demande de pull de la branche master a notre nouvelle branche et ainsi récuperer les
+modifications apportés
+https://github.com/LucasPercereau/projetVercel/pull/1
+
+Pour chaque push (et pull requests), le projet github va etre deployé en "preview" par Vercel.
+
+20. Une fois le merge effectué, vercel deploit automatiquement en production 
+https://github.com/LucasPercereau/projetVercel/commit/8aadad7fb8c399ba74728c3fe9aa1e7ff1476255
