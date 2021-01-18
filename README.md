@@ -28,7 +28,7 @@ Preview, Devloppement).
 
 16. Production, Preview, Devloppement -> permet de developper en testant les fonctionnalité puis de déployer une fois le résultat satisfaisant
 
-18. https://projet-versel.vercel.app/
+18. https://projet-vercel.vercel.app/
 
 19. La pull request permet d'effectuer une demande de pull de la branche master a notre nouvelle branche et ainsi récuperer les
 modifications apportés
